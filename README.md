@@ -1,3 +1,7 @@
+---
+title: FormKit docs content readme
+---
+
 <p align="center">
   <a href="https://www.formkit.com#gh-light-mode-only" target="_blank" rel="noopener noreferrer"><img width="200" src="https://cdn.formk.it/brand-assets/formkit-logo.png" alt="FormKit Logo"></a>
   <a href="https://www.formkit.com#gh-dark-mode-only" target="_blank" rel="noopener noreferrer"><img width="200" src="https://cdn.formk.it/brand-assets/formkit-logo-white.png" alt="FormKit Logo"></a>
